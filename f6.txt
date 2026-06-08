@@ -1,1 +1,1 @@
-Added file in branch1
+Added file in branch1 modified to 3 way
